@@ -10,7 +10,7 @@ Este repositório é utilizado para publicar os relatórios de testes gerados au
 - Após cada execução, o arquivo `mochawesome.html` é atualizado neste repositório e pode ser acessado via GitHub Pages:
 
 🔗 **URL do relatório mais recente:**  
-[https://seu-usuario.github.io/relatorios-e2e/mochawesome.html](https://seu-usuario.github.io/relatorios-e2e/mochawesome.html)
+[https://infoglobo.github.io/relatorios-e2e/mochawesome.html](https://infoglobo.github.io/relatorios-e2e/mochawesome.html)
 
 ---
 
